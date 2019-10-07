@@ -1,9 +1,11 @@
-## Special Vogan diagrams
+
+  
+
 
 In this project we want to present a combinatorial property of Vogan
 diagrams which may be studied directly and by deep learning techniques.
 Let $\mathfrak{g}$ be a real semisimple Lie algebra of rank $\ell$ with
-Vogan diagram having indices of painted nodes $P$ and set of positive
+Vogan diagram having indices of painted nodes $$P$$ and set of positive
 roots $\Delta^+$. Let $\{\gamma_1,\ldots,\gamma_{\ell}\}$ be the set of
 simple roots and $\{\varphi_1,\ldots,\varphi_{\ell}\}$ be the set of
 fundamental dominant weights. We assign to each root $\alpha$ a
@@ -27,9 +29,7 @@ be studied directly through to the algorithm specialOrbits.sage.
 The
 speciality of Vogan diagrams is relevant in the almost-Kähler geometry
 of adjoint orbits of semisimple Lie groups, as it allows to determine
-when an orbit admits a canonical metric. For more details, see A. Della Vedova, A. Gatti, *Almost Kähler geometry of adjoint orbits of
-semisimple Lie groups*, [arXiv:1811.06958 [math-DG]](https://arxiv.org/abs/1811.06958).
-
+when an orbit admits a canonical metric. For more details, see [arXiv:1811.06958 [math-DG]](https://arxiv.org/abs/1811.06958).
 
 On the other hand, the problem may be studied also with deep learning
 techniques, especially to make predictions on higher ranks Vogan
